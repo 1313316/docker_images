@@ -1,1 +1,1 @@
-hyperf/hyperf:8.1-alpine-v3.18-swoole
+registry.cn-hangzhou.aliyuncs.com/nzw_game/hyperf:8.1-alpine-v3.18-swoole
